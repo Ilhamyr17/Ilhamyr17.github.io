@@ -1,0 +1,105 @@
+.bg_hijau{
+background: green;
+}
+.bg_biru{
+background: blue;
+}
+.bg_merah{
+    background: darkred;
+}
+.logo{
+    width: 200px;
+}
+.menu{
+    float: right;
+    list-style: none;
+}
+.menu li{
+    display: inline;
+}
+.menu li a{
+    font-size: 13px;
+    color: #121212;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+.menu li a:hover{
+    color: #fcf7f7;
+}
+.header{
+    position: fixed;
+    background: #ffe605;
+    padding: 0 20px;
+    padding-top: 1px;
+    width: 97%;
+    
+}
+html, body{
+    margin: 0;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.section1{
+    background: url("../css/image.jpg");
+    background-image: url(image/ga);
+    background-size: 50%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+.section2{
+    margin: 50px;
+    width: 50%;
+    position: relative;
+    padding: 40px;
+    width: 40%;
+    background-color: #121212;   
+}
+.section2a{
+margin: 50px;
+}
+.section3{
+    padding: 40px;
+    margin: 50px;
+    background-color: rgb(38, 41, 38);
+    text-decoration: rgb(255, 217, 0);
+    color: rgb(247, 223, 9);
+
+}
+.section4{
+    margin: 90px;
+    padding: 90px;
+    border-color: aqua  ;
+    background-color: rgb(2, 2, 5);
+    color: rgb(251, 255, 0);
+}
+.section5{
+    background-color: #121212;
+    margin: 50px;
+    padding: 50px;
+}
+.posisi{
+    margin: 50px;
+    padding: 50px;
+}
+.posisi1{
+    margin: 50px;
+}
+
+h1, h2 ,h3{
+margin: 0;
+color: #f7b80c;
+font-weight: 500;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 15px;
+}
